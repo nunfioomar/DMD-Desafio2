@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|solutionrelative:Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Sales Territory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|solutionrelative:Dim Sales Territory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\CuboVentas.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|solutionrelative:CuboVentas.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Adventure Works DW2022.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{28066623-DC26-9498-7835-94BC5650FC1A}|Desafio2.dwproj|solutionrelative:Adventure Works DW2022.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Date.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Date.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Date.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T17:44:34.022Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Product.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Dim Product.dim",
+              "ToolTip": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Product.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Product.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T17:39:25.943Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Sales Territory.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Sales Territory.dim",
+              "RelativeDocumentMoniker": "Dim Sales Territory.dim",
+              "ToolTip": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Dim Sales Territory.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Sales Territory.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T16:58:46.309Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuboVentas.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\CuboVentas.cube",
+              "RelativeDocumentMoniker": "CuboVentas.cube",
+              "ToolTip": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\CuboVentas.cube [Dise\u00F1o]",
+              "RelativeToolTip": "CuboVentas.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T16:28:04.651Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adventure Works DW2022.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Adventure Works DW2022.dsv",
+              "RelativeDocumentMoniker": "Adventure Works DW2022.dsv",
+              "ToolTip": "C:\\Users\\nunfi\\Desktop\\Desafio\\Desafio2\\Adventure Works DW2022.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "Adventure Works DW2022.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:42:06.426Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
